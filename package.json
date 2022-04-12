@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/pdfkit": "^0.11.0",
+    "concurrently": "^7.0.0",
     "pdfkit": "^0.11.0"
   },
   "devDependencies": {
